@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\SE 1\\Cloud+5\\cloud+\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_action_delete.png",
+        "source": "F:\\SE 1\\Cloud+5\\cloud+\\src\\main\\res\\drawable-xxxhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "F:\\SE 1\\Cloud+5\\cloud+\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_action_autorenew.png",
+        "source": "F:\\SE 1\\Cloud+5\\cloud+\\src\\main\\res\\drawable-xxxhdpi\\ic_action_autorenew.png"
+    },
+    {
+        "merged": "F:\\SE 1\\Cloud+5\\cloud+\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_editor_insert_drive_file.png",
+        "source": "F:\\SE 1\\Cloud+5\\cloud+\\src\\main\\res\\drawable-xxxhdpi\\ic_editor_insert_drive_file.png"
+    },
+    {
+        "merged": "F:\\SE 1\\Cloud+5\\cloud+\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_file_folder.png",
+        "source": "F:\\SE 1\\Cloud+5\\cloud+\\src\\main\\res\\drawable-xxxhdpi\\ic_file_folder.png"
+    },
+    {
+        "merged": "F:\\SE 1\\Cloud+5\\cloud+\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_file_file_upload.png",
+        "source": "F:\\SE 1\\Cloud+5\\cloud+\\src\\main\\res\\drawable-xxxhdpi\\ic_file_file_upload.png"
+    }
+]

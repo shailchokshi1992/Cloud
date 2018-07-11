@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\SE 1\\Cloud+5\\cloud+\\build\\intermediates\\res\\merged\\debug\\menu\\selected_item_bar.xml",
+        "source": "F:\\SE 1\\Cloud+5\\cloud+\\src\\main\\res\\menu\\selected_item_bar.xml"
+    },
+    {
+        "merged": "F:\\SE 1\\Cloud+5\\cloud+\\build\\intermediates\\res\\merged\\debug\\menu\\activity_file_viewer_drawer.xml",
+        "source": "F:\\SE 1\\Cloud+5\\cloud+\\src\\main\\res\\menu\\activity_file_viewer_drawer.xml"
+    },
+    {
+        "merged": "F:\\SE 1\\Cloud+5\\cloud+\\build\\intermediates\\res\\merged\\debug\\menu\\action_bar.xml",
+        "source": "F:\\SE 1\\Cloud+5\\cloud+\\src\\main\\res\\menu\\action_bar.xml"
+    }
+]
